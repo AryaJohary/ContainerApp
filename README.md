@@ -1,2 +1,2 @@
 # ContainerApp
- This is a container app which contains 5 sample games from MixAndJam youtube channel.
+ This is a container app. It has a beautiful UI in which you can choose to play from the library of 5 games.
